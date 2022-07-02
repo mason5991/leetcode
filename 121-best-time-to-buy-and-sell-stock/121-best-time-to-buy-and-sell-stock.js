@@ -25,10 +25,6 @@ var maxProfit = function (prices) {
 
 // Test cases
 // [7,1,5,3,6,4] => 5
-console.log(maxProfit([7, 1, 5, 3, 6, 4]));
 // [7,6,4,3,1] => 0
-console.log(maxProfit([7, 6, 4, 3, 1]));
 // [2,1,2,1,0,1,2] => 2
-console.log(maxProfit([2, 1, 2, 1, 0, 1, 2]));
 // [3,3,5,0,0,3,1,4] => 4
-console.log(maxProfit([3, 3, 5, 0, 0, 3, 1, 4]));
